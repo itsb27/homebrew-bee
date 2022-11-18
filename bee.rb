@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class HomebrewBee < Formula
+class Bee < Formula
   desc ""
   homepage ""
   url "https://github.com/itsb27/homebrew-bee/archive/refs/tags/0.0.0.tar.gz"
